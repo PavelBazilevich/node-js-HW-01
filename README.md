@@ -3,13 +3,17 @@
 <h3 align="center">Computer science student, GOIT</h3>
 
 <p>node index.js --action="list"</p>
-<img url="https://monosnap.com/file/KjJtpoVjxwFjypUYsLTCTTPX7kHnxz" alt="Comand 1">
+
+<a href="https://ibb.co/hR4zSGw"><img src="https://i.ibb.co/mC2W3ng/20221226-200744.png" alt="20221226-200744" border="0"></a>
 
 <p>node index.js --action="get" --id=5</p>
-<img url="https://monosnap.com/file/Rej9OO8EY3fzqZGtQcW8biw3vIFSLZ" alt="Comand 2">
+
+<a href="https://ibb.co/x1jq2SC"><img src="https://i.ibb.co/jyMk8v6/20221226-200838.png" alt="20221226-200838" border="0"></a>
 
 <p>node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22""</p>
-<img url="https://monosnap.com/file/6XnFXGHkddlUKYlermLV5CCmHwUaw5" alt="Comand 3">
+
+<a href="https://ibb.co/w46KhJG"><img src="https://i.ibb.co/m4zH5vZ/20221226-200909.png" alt="20221226-200909" border="0"></a>
 
 <p>node index.js --action="remove" --id=3</p>
-<img url="https://monosnap.com/file/SsrlR40o6dlVs7ZszYVjNFoO915AYY" alt="Comand 4">
+
+<a href="https://ibb.co/4ttCC4Y"><img src="https://i.ibb.co/B33vvTr/20221226-200935.png" alt="20221226-200935" border="0"></a>
